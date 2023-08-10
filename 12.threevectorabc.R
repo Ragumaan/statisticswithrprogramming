@@ -1,0 +1,5 @@
+a=c(12,15,16)
+b=c(19,12,14)
+c=c(32,11,4)
+matx=cbind(a,b,c)
+print(matx)

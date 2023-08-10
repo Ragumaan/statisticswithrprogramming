@@ -1,0 +1,7 @@
+v <- sample(1:100, 10)
+cat("The vector is:\n")
+print(v)
+cat("The maximum value of the vector is:\n")
+print(max(v))
+cat("The minimum value of the vector is:\n")
+print(min(v))

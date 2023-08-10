@@ -1,0 +1,5 @@
+name=readline("enter name:")
+age=as.integer(readline( "enter age:"))
+R.Version()
+print(name)
+print(age)
